@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF6B6B</color>
+    <color name="colorPrimaryDark">#FF5252</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="miniroom_background">#F5F5F5</color>
+    <color name="miniroom_wall">#E0E0E0</color>
+    <color name="miniroom_floor">#BDBDBD</color>
+    <color name="theme_basic_wall">#E0E0E0</color>
+    <color name="theme_basic_floor">#BDBDBD</color>
+    <color name="theme_pastel_wall">#FFE4E1</color>
+    <color name="theme_pastel_floor">#F0E6FF</color>
+    <color name="theme_modern_wall">#424242</color>
+    <color name="theme_modern_floor">#212121</color>
+    <color name="theme_vintage_wall">#D7CCC8</color>
+    <color name="theme_vintage_floor">#BCAAA4</color>
+</resources>
